@@ -12,4 +12,4 @@ Here are the screenshots of my Keyboard Maestro Setup:
 ![elink on Keyboard Maestro](https://github.com/palladion/AppleScripts-Mail/blob/main/Keyboard%20Maestro%20Setup%20of%20elink.png)
 
 **Extended Markdown Link with Sender and Subject**
-https://github.com/palladion/AppleScripts-Mail/blob/main/Keyboard%20Maestro%20Setup%20of%20eelink.png
+![eelink on Keyboard Maestro](https://github.com/palladion/AppleScripts-Mail/blob/main/Keyboard%20Maestro%20Setup%20of%20eelink.png)
