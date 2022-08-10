@@ -9,4 +9,4 @@ I use "elink" (short for email link) as keyowrd for the raw URL and "eelink" (sh
 Here are the screenshots of my Keyboard Maestro Setup:
 
 **Simple URL**
-![elink on Keyboard Maestro](Keyboard Maestro Setup of elink.png)
+![elink on Keyboard Maestro](https://github.com/palladion/AppleScripts-Mail/blob/main/Keyboard%20Maestro%20Setup%20of%20elink.png)
